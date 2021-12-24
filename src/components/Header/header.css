@@ -1,0 +1,19 @@
+header{
+    background-color: #000000cb;
+    border-bottom: 5px solid black;
+}
+headerOpt{
+    display: flex;
+}
+logo {
+flex-grow: 1;
+}
+
+img{
+    width: 90px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: -150px;
+    border-radius: 5px;
+    
+}

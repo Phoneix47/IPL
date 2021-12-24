@@ -1,8 +1,22 @@
 import React from "react";
+import NewsSlider from "../components/widgets/NewsSlider/slider";
+import Newslist from "../components/widgets/NewsList/newslist";
 const home = () =>{
     return (
         <div>
-            This is my fucking home
+            <NewsSlider 
+            type="feature"
+            start={0}
+            amount={7}
+
+            />
+            <Newslist
+            type="card"
+            loadmore={true}
+            start={3}
+            amount={3}
+            />
+            
         </div>
     )
 }

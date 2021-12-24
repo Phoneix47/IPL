@@ -1,0 +1,284 @@
+{
+    "articles":[
+        {
+            "id":1,
+            "team":1,
+            "title":"Fortunes Changed After Representing Mumbai Indians : Suryakumar Yadav",
+            "image":"1.jpg",
+            "body":"His sensational run for Mumbai Indians in the IPL earned him a spot in the England T20I series at home. With 512 runs in the 2018 season, followed by 424 runs in 2019 and 480 runs in 2020, the conversation around the Mumbai batsman shifted to the prospects of him doing the same for Men in Blue. It took until the fourth T20I in the five-match series against England earlier this year for him to get a chance to bat in international cricket, where an instant impact was made. His 31-ball 57, consisting of six fours and three sixes, bore an uncanny resemblance to what he regularly pulled off for his IPL franchise. He did it again just two days later with a 17-ball 32 in the fifth T20I.",
+            "date":"24/07/2021",
+            "author":"Nirmalya Banerjee",
+            "tags":["Mumbai Indians","IPl 2018"]
+        },
+        {
+            "id":2,
+            "team":2,
+            "title":"5 Worst Signings By Delhi Capitals (DC) In IPL History",
+            "image":"2.jpg",
+            "body":"Colin Ingram : In IPL 2019 auction, Delhi Capitals bought South African batsman Colin Ingram for Rs. 6.40 crores. However, the left-handed batsman largely failed to make an impact with his bat in the season.Ingram scored 184 runs in 12 innings at a mere average of 18.40. His strike rate of 119+ was also not quite impressive for the franchise. In spite of playing 12 matches, he failed to hit a century in any match with the highest score being 47. Glenn Maxwell (IPL 2018) : In IPL 2018 auction, Delhi Capitals bought Glenn Maxwell for a massive price of Rs. 9 crores. However, the Australian batsman struggled with his batting throughout the season. The right-handed batsman scored 169 runs in 12 innings at an average of 14.08. The Aussie batsman did not even smash a half-century. He picked 5 wickets in 10 innings while bowling as a part-time bowler, but totally failed at his primary job of batting. As a result, Maxwell was also dropped by the franchise in the subsequent season",
+            "date":"15/07/2021",
+            "author":"Vikas Singh Derek",
+            "tags":["Delhi Capitals","Poor Selections"]
+        },
+        {
+            "id":3,
+            "team":3,
+            "title":"David Warner responds after fan asks him whose idea was it to drop him from SRH's playing XI during IPL 2021",
+            "image":"3.jpg",
+            "body":"Sunrisers Hyderabad's (SRH) decision to sack David Warner from captaincy during the first phase of Indian Premier League (IPL) 2021 came as a shock to many. Warner was sacked from captaincy after SRH managed to win only one out of their first six matches of the season. The star Australian batsman was replaced by Kane Williamson, who led the team in only one game before the season had to be suspended due to COVID-19. Warner was not only dropped from captaincy but was also left out of the playing XI for SRH's last game of the season before the league was called off.",
+            "date":"29/6/2021",
+            "author":"TN Sports Desk",
+            "tags":["SRH","David Warner"]
+        },
+        {
+            "id":4,
+            "team":4,
+            "title":"Prathmesh Mishra Named Chairman of Royal Challengers Bangalore ",
+            "image":"4.jpg",
+            "body":"Thursday, July 1, 2021: Royal Challengers Sports Pvt Ltd. announced the appointment of Prathmesh Mishra as the new Chairman of the RCB team. Prathmesh is currently the Chief Commercial Officer of Diageo India and will take on this additional responsibility effective July 1, 2021. Prathmesh takes over the role of RCB Chairman from Anand Kripalu, who ended his tenure as Managing Director & CEO of Diageo India on June 30, 2021. Commenting on his expanded role, Prathmesh Mishra, Chief Commercial Officer, Diageo India said, “Royal Challengers Bangalore is an integral part of Diageo India, and all of us share a profound passion for the team.  I am excited about adding my shoulder to Virat Kohli, Mike Hesson and Simon Katich and playing bold in everything we do, on and off, the field. I would also like to thank Anand for his tremendous contribution to RCB.",
+            "date":"1/07/2021",
+            "author":"RCB Website",
+            "tags":["Prathmesh Mishra","RCB"]
+        },
+        {
+            "id":5,
+            "team":5,
+            "title":"KKR has appointed Binda Dey as new chief marketing officer (CMO).",
+            "image":"5.jpg",
+            "body":"Shah Rukh Khan and Juhi Chawla promoted Kolkata Knight Riders (KKR) has appointed Binda Dey as Chief Marketing Officer (CMO), KKR & Knight Riders Global Franchises. Apart from the Indian Premier League (IPL), KKR also owns cricket franchises in the USA and West Indies. As CMO, she will be responsible for all aspects of Marketing - Brand, Content, Digital, Licensing & Merchandising, for all initiatives in IPL, Caribbean Premier League and USA Cricket. It is pertinent to note that she was Head of Marketing for KKR between November 2015 and October 2016.",
+            "date":"24/07/2021",
+            "author":"exchange4media",
+            "tags":["KKR","new CMO"]
+        },
+        {
+            "id":6,
+            "team":6,
+            "title":"KL Rahul shares his captaincy experience with Punjab Kings",
+            "image":"6.jpg",
+            "body":"Team India’s top order batsman KL Rahul opened up on the dimension of captaincy in his recent interaction with Forbes India. Rahul, who is a part of India Team currently on the tour to England, talked about captaincy on ‘Mantras on Leadership’ and praises India’s former player MS Dhoni for his remarkable leadership skills. If someone says Captain, the first name for our Era or generation, it will be MS Dhoni. We all played under him, won lots trophies but the biggest thing is the respect to him by everyone and how humble he is during ups & downs in the career, KL Rahul said in an interaction with Forbes India.",
+            "date":"02/07/2021",
+            "author":"Sahil Sethi",
+            "tags":["Kings-IX Punjab","KL Rahul"]
+        },
+        {
+            "id":7,
+            "team":7,
+            "title":"IPL to resume on September 19 with CSK vs MI clash in Dubai: Sources",
+            "image":"7.jpg",
+            "body":"The 2021 Indian Premier League (IPL) season, which was suspended earlier this year because of the Covid-19 second wave, will resume with a clash between the Chennai Super Kings (CSK) and Mumbai Indians (MI) on September 19, sources have confirmed. The first match of the remainder of the season will be played in Dubai. The 31 remaining matches will be played at three venues — Dubai, Abu Dhabi and Sharjah — with Dubai set to host the final on October 15. While Dubai will host the first qualifier on October 10, the eliminator and second qualifier will be played in Sharjah on October 11 and 13 respectively.",
+            "date":"25/07/2021",
+            "author":"Sports Desk",
+            "tags":["MI","CSK"]
+        },
+        {
+            "id":8,
+            "team":8,
+            "title":"Unavailability Of England Players Will Be A Massive Problem For Rajasthan Royals : Akash Chopra",
+            "image":"8.jpg",
+            "body":"Former Cricketer Aakash Chopra has said that the Rajasthan Royals will suffer massively due to the unavailability of England cricketers in the United Arabs Emirates (UAE) leg of the Indian Premier League (IPL) 2021. Rajasthan Royals had four Englishmen in their side –  Jos Buttler, Ben Stokes, Jofra Archer, and Liam Livingstone. Out of the four, Jofra Archer did not join the squad due to injury, and Stokes and Livingstone returned back home midway due to injury and bubble-related fatigue respectively. With the IPL 2021 set to resume in the UAE from September, the English players are most likely to be out due to national team commitments.",
+	"date":"03/07/2021",
+	"author":"Sanika Sawat",
+	"tags": ["Akash Chopra","Rajisthan Royals"]
+        }   
+    ],
+    "videos":[
+        {
+          "id":1,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"1.jpeg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":2,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"2.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":3,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"3.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":4,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"4.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":5,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"5.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":6,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"6.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+
+        {
+          "id":7,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"7.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":8,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"8.jpg"
+            }
+              ],
+    "teams": [
+        {
+          "id": 1,
+          "name": "Mumbai Indians",
+          "city": "Mumbai",
+          "logo": "MI.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Mumbai Indians are a franchise cricket team based in Mumbai, Maharashtra, that competes in the Indian Premier League. Founded in 2008, the team is owned by India's biggest conglomerate, Reliance Industries, through its 100% subsidiary IndiaWin",
+          "stats":[
+            {
+              "wins":9,
+              "defeats":5
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Delhi Capitals",
+          "city": "Delhi",
+          "logo": "DC.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Delhi Capitals are a franchise cricket team based out of Delhi in the Indian Premier League. Founded in 2008 as the Delhi Daredevils, the franchise is jointly owned by the GMR Group and the JSW Group. The team's home ground is Arun Jaitley Stadium, located in New Delhi",
+          "stats":[
+            {
+              "wins":8,
+              "defeats":6
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "SunRisers Hyderabad",
+          "city": "Hyderabad",
+          "logo": "SRH.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Sunrisers Hyderabad are a franchise cricket team based in Hyderabad, Telangana, India, that plays in the Indian Premier League. The franchise is owned by Kalanithi Maran of the SUN Group and was founded in 2012 after the Hyderabad-based Deccan Chargers were terminated by the IPL.",
+          "stats":[
+            {
+              "wins":7,
+              "defeats":7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Royal Challengers Banglore",
+          "city": "Banglore",
+          "logo": "RCB.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Royal Challengers Bangalore are a franchise cricket team based in Bangalore, Karnataka, that plays in the Indian Premier League. It was founded in 2008 by United Spirits and named after the company's liquor brand Royal Challenge.",
+          "stats":[
+            {
+              "wins":7,
+              "defeats":7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Kolkata Knight Riders",
+          "city": "Kolkata",
+          "logo": "KKR.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Kolkata Knight Riders are a franchise cricket team representing the city of Kolkata in the Indian Premier League. The franchise is owned by Bollywood actor Shah Rukh Khan, actress Juhi Chawla and her spouse Jay Mehta. The Knight Riders play at the iconic Eden Gardens stadium.",
+          "stats":[
+            {
+              "wins":7,
+              "defeats":7
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Punjab Kings",
+          "city": "Punjab",
+          "logo": "PBKS.png",
+          "poll": "true",
+          "count": 2365,
+          "description": "The Punjab Kings are a franchise cricket team based in Mohali, Punjab, that plays in the Indian Premier League. Established in 2008 as the Kings XI Punjab, the franchise is jointly owned by Mohit Burman, Ness Wadia, Preity Zinta and Karan Paul. The team plays its home matches at the PCA Stadium, Mohali.",
+          "stats":[
+            {
+              "wins":6,
+              "defeats":8
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Chennai Super Kings",
+          "city": "Chennai",
+          "logo": "CSK.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Chennai Super Kings are a franchise cricket team based in Chennai, Tamil Nadu. They play in the Indian Premier League. Founded in 2008, the team plays its home matches at the M. A. Chidambaram Stadium in Chennai. The team is owned by Chennai Super Kings Cricket Ltd and India Cements is the major stakeholder.",
+          "stats":[
+            {
+              "wins":6,
+              "defeats":8
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Rajisthan Royals",
+          "logo": "RR.png",
+          "poll": "false",
+          "count": 0,
+          "description": "The Rajasthan Royals are a franchise cricket team based in Jaipur, Rajasthan, that plays in the Indian Premier League. Founded in 2008 as one of the initial eight IPL franchises, the team is based at the Sawai Mansingh Stadium in Jaipur",
+          "stats":[
+            {
+              "wins":6,
+              "defeats":8
+            }
+          ]
+        }
+      ]
+}
+      
+        
+      
+      
+        
+       
+             
